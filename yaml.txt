@@ -1,0 +1,33 @@
+student: 
+name: Mark
+age: 20
+faculty: Psychology
+class: 33RUK
+shortSummary: Student with high level of Math skills
+married: false
+bio: "Born in 2000. School #452."
+diplomaTitle: Educational program 'Psychology'
+friends: [John,Kate,Luke]
+exams:
+  - Math: 
+     passed: true
+     points: 100
+  - English: 
+     passed: false
+     points: ~
+  - Culture: 
+     passed: false
+     points: 50
+address:
+  - mailing:
+     country: Ukraine
+     city: Kiev
+     zip code: "004887"
+     street: Khreshatik
+     apartment: 009A
+  - actual:
+    country: Ukraine
+    city: Lviv
+    zip code: "004887"
+    street: Hrushevskogo
+    apartment: 009A

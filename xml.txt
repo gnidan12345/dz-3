@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<student>
+  <name>Mark</name>
+  <age>20</age>
+  <faculty>Psychology</faculty>
+  <class>33RUK</class>
+  <shortSummary>Student with high level of Math skills</shortSummary>
+  <married>false</married>
+  <bio>Born in 2000. School #452.</bio>
+  <diplomaTitle>Educational program &quotePsychology&quote</diplomaTitle>
+  <friends>
+   <friend> John</friend>
+   <friend>Kate</friend>
+   <friend>Luke</friend>
+  </friends>
+  <exams>
+   <exam>
+    <subject>Math</subject>
+    <passed>true</passed>
+    <points>100</points>
+   </exam>
+   <exam>
+     <subject>English</subject>
+     <passed>false</passed>
+     <points/>
+    </exam>
+    <exam>
+      <subject>Culture</subject>
+      <passed>false</passed>
+      <points>50</points>
+    </exam>
+  </exams>
+
+  <address type = "mailing">
+    <country>Ukraine</country>
+    <city>Kiev</city>
+    <zip_code>004887</zip_code>
+    <street>Khreshatik</street>
+    <apartment>009A</apartment>
+  </address>
+  <address type = "actual">
+    <country>Ukraine</country>
+    <city>Lviv</city>
+    <zip_code>004887</zip_code>
+    <street>Hrushevskogo</street>
+    <apartment>009A</apartment>
+  </address>
+</student>
