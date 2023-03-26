@@ -1,0 +1,50 @@
+{
+  "name": "Mark",
+  "age": 20,
+  "faculty": "Psychology",
+  "class": "33RUK",
+  "shortSummary": "Student with high level of Math skills",
+  "married": false,
+  "bio": "Born in 2000. School #452.",
+  "diplomaTitle": "Educational program 'Psychology'",
+  "friends": [
+    "John",
+    "Kate",
+    "Luke"
+  ],
+  "exams": [
+    {
+      "subject": "Math",
+      "passed": true,
+      "points": 100
+    },
+    {
+      "subject": "English",
+      "passed": false,
+      "points": null
+    },
+    {
+      "subject": "Culture",
+      "passed": false,
+      "points": 50
+    }
+  ],
+  "adress": [
+    {
+      "type": "mailing",
+      "country": "Ukraine",
+      "city": "Kiev",
+      "zip code": "004887",
+      "street": "Khreshatik",
+      "appartment": "009A"
+    },
+    {
+      "type": "actual",
+      "country": "Ukraine",
+      "city": "Lviv",
+      "zip code": "004887",
+      "street": "Hrushevskogo",
+      "appartment": "009A"
+    }
+  ]
+}
